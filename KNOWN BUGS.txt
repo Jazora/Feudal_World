@@ -1,0 +1,1 @@
+1) First item placed into a scene can be randomly deleted, the problem is solved by placing the same type of scene prop over it.
